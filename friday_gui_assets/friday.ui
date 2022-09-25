@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1043</width>
+    <height>635</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="background_label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1051</width>
+     <height>641</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="../rec.qrc">:/newPrefix/friday gui assets/background.jpg</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="tohold_user_said">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>30</y>
+     <width>401</width>
+     <height>351</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="../rec.qrc">:/newPrefix/friday gui assets/no blur.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="tohold_what_she_said">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>260</y>
+     <width>401</width>
+     <height>351</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="../rec.qrc">:/newPrefix/friday gui assets/no blur.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="gif_of_orb">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>250</y>
+     <width>191</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="../rec.qrc">:/newPrefix/friday gui assets/transparent and match background orb.gif</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="inside_user_sadi">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>150</y>
+     <width>291</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::Box</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Plain</enum>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:12pt; color:#4ac8eb;&quot;&gt;Friday Please Open I Mean Please Log In To Manav Sampada Hello World I Am Good And The Space And Enter Works Fine&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="textFormat">
+    <enum>Qt::AutoText</enum>
+   </property>
+   <property name="scaledContents">
+    <bool>false</bool>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+   <property name="margin">
+    <number>1</number>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>380</y>
+     <width>291</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::Box</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Plain</enum>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:12pt; color:#4ac8eb;&quot;&gt;Ok Sir Hello Sir I am Good Sir What About You You Know In Windows 10 I Would Be A Male Assistant&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="textFormat">
+    <enum>Qt::AutoText</enum>
+   </property>
+   <property name="scaledContents">
+    <bool>false</bool>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+   <property name="margin">
+    <number>1</number>
+   </property>
+  </widget>
+  <widget class="QLabel" name="date">
+   <property name="geometry">
+    <rect>
+     <x>750</x>
+     <y>160</y>
+     <width>47</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:16pt; color:#c5fdff;&quot;&gt;17&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="month">
+   <property name="geometry">
+    <rect>
+     <x>790</x>
+     <y>160</y>
+     <width>121</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:16pt; color:#c5fdff;&quot;&gt;September&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="year">
+   <property name="geometry">
+    <rect>
+     <x>900</x>
+     <y>160</y>
+     <width>71</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:16pt; color:#c5fdff;&quot;&gt;2020&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="../rec.qrc"/>
+ </resources>
+ <connections/>
+</ui>

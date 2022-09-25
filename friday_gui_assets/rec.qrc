@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>friday_gui_assets/no_blur.png</file>
+    <file>friday gui assets/transparent and match background orb.gif</file>
+    <file>friday gui assets/bfR.gif</file>
+    <file>friday gui assets/transparent and match background.gif</file>
+    <file>friday gui assets/pretty colourful gif.gif</file>
+    <file>friday gui assets/one more gif.gif</file>
+    <file>friday gui assets/black gif.gif</file>
+    <file>friday gui assets/no blur.png</file>
+    <file>friday gui assets/rotate future gif.gif</file>
+    <file>friday gui assets/background.jpg</file>
+  </qresource>
+</RCC>
